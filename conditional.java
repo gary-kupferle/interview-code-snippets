@@ -8,7 +8,7 @@ double disabilityAmount() {
     if (isPartTime) {
       return 0;
     }
-    // Compute the disability amount.
-    // ... more code
+
+    // More code to compute the disability amount.
     // returns disability amount
 }
